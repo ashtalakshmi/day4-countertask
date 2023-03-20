@@ -1,0 +1,14 @@
+.counter {
+    display: inline-grid;
+    margin-top: 100px;
+}
+.inputbox {
+    margin-bottom: 10px;
+}
+
+button.startbtn {
+    margin-left: 10px;
+}
+label.labelchnage {
+    margin-right: 10px;
+}
